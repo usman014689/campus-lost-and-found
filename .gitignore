@@ -2,7 +2,7 @@
 node_modules/
 .pnp
 .pnp.js
-
+docs/
 # Environment / secrets
 .env
 .env.local
