@@ -31,7 +31,7 @@ We build and push in small increments (not all at once).
 |-------|--------|--------|
 | **0** | Repo structure, README, GitHub | Done |
 | **1** | App shell (Express + React starter) | Done |
-| **2** | Backend: Mongo models, auth, core CRUD | Planned |
+| **2** | Backend: Mongo models, auth, core CRUD | In progress (2a) |
 | **3** | Frontend: screens wired to API | Planned |
 | **4** | External API (maps/geocoding), validation, security hardening | Planned |
 | **5** | Cloud deploy + polish UX | Planned |
